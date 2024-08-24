@@ -6,6 +6,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Documentation',
+			pagination: false,
 			customCss: [
 				'./src/theme.css'
 				],
