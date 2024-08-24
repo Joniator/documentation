@@ -1,5 +1,7 @@
 ---
 title: UwUcraft
+sidebar:
+    badge: new
 ---
 ## PrimsLauncher
 
