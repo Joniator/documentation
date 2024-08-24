@@ -5,7 +5,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Documentation',
+			customCss: [
+				'./src/theme.css'
+				],
 			social: {
 				github: 'https://github.com/Joniator/',
 			},

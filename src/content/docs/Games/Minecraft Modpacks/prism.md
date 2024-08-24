@@ -1,5 +1,7 @@
 ---
 title: PrismLauncher
+sidebar:
+  order: 2
 ---
 ## Install PrismLauncher
 To manage the modpacks, you can (and should) use PrismLauncher.  
