@@ -18,3 +18,7 @@ After launching the modpack, it will check for updates, and download all mods, r
 
 Every new start, the modpack checks for updates and downloads them automatically. 
 If something goes wrong, you can just import the pack again, copy your worlds/settings, and delete the old one.
+
+## Playing on the server
+
+You get a sharestone and some food when first joining the server. Place the sharestone once you found a home, and give it a name so everyone knows whos sharestone it is. You can use them to teleport between sharestones of the same color.
