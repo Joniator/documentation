@@ -11,7 +11,7 @@ Download [UwUcraft.zip](https://github.com/tazedclub/UwUCraft/raw/main/UwUcraft-
 Change the settings to the correct Java version, for UwUcraft 1.20 that would be 1.17.  
 After launching the modpack, it will check for updates, and download all mods, resource packs and shaders. 
 
-:::note[Playing on the server}
+:::note[Playing on the server]
 The official UwUcraft Server will be listed in the server list. If not, you can connect to `uwucraft.tzd.one`
 :::
 
