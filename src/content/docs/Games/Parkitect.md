@@ -1,7 +1,8 @@
 ---
 title: Parkitect
 sidebar:
-  order: 1
+  badge: Outdated
+  order: 11
 ---
 
 Syncthing syncs the game and mods with my local installation. 
