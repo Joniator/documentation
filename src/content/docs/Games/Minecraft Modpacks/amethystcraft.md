@@ -1,19 +1,17 @@
 ---
 title: UwUcraft
-sidebar:
-    badge: Outdated
+hidden: true
 ---
 ## PrimsLauncher
 
 If not done yet, [install PrismLauncher](prism.md).
 
-Download [UwUcraft.zip](https://github.com/tazedclub/UwUCraft/raw/main/UwUcraft-1.20.zip), and [import it into PrismLauncher](prism.md).  
-Change the settings to the correct Java version, for UwUcraft 1.20 that would be 1.17.  
+Download [Amethystcraft.zip](https://cloud.boeller.dev/s/W5YbL2Tad8Zb62d/download/Amethystcraft.zip), and [import it into PrismLauncher](prism.md).  
+Change the settings to the correct Java version, for Amethystcraft 1.20 that would be Java 17.  
 After launching the modpack, it will check for updates, and download all mods, resource packs and shaders. 
 
 :::note[Playing on the server]
-The server is no longer online. Thanks for playing!
-~~The official UwUcraft Server will be listed in the server list. If not, you can connect to `uwucraft.tzd.one`~~
+The official UwUcraft Server will be listed in the server list. If not, you can connect to `jonnyb.name`
 :::
 
 ## Updates

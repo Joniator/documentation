@@ -8,6 +8,11 @@ To manage the modpacks, you can (and should) use PrismLauncher.
 It can be downloaded [here.](https://prismlauncher.org/download)
 
 ## Install Java
+
+:::note
+If you use the recent version of Prism, it will take care of the java installation and version selection for you!
+:::
+
 Depending on the Minecraft version, you also need to install the right java version.  
 [You can find the download links to Java here](https://adoptium.net/temurin/releases/), and the required version in the table below.
 
