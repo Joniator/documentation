@@ -1,5 +1,5 @@
 ---
-title: UwUcraft
+title: Amethystcraft
 hidden: true
 ---
 ## PrimsLauncher
@@ -11,7 +11,7 @@ Change the settings to the correct Java version, for Amethystcraft 1.20 that wou
 After launching the modpack, it will check for updates, and download all mods, resource packs and shaders. 
 
 :::note[Playing on the server]
-The official UwUcraft Server will be listed in the server list. If not, you can connect to `jonnyb.name`
+The official Amethystcraft Server will be listed in the server list. If not, you can connect to `jonnyb.name`
 :::
 
 ## Updates
